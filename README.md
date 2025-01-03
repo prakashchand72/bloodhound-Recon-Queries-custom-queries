@@ -1,4 +1,5 @@
 # bloodhound-Recon-Queries-custom-queries
+![image](https://github.com/user-attachments/assets/51b3eae4-bdee-4c10-b808-b2b9439af040)
 - custom queries for bloodhound
 - make sure to put/replace on ~/config/bloodhound/customqueries.json
 - for windows users C:\Users[USERNAME]\AppData\Roaming\BloodHound\customqueries.json
