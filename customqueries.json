@@ -18,6 +18,15 @@
                 }
             ]
         },
+        {
+            "name": "Loggedin Sessions",
+            "queryList": [
+                {
+                    "final": true,
+                    "query": "MATCH p = (c:Computer)-[:HasSession]->(m:User) RETURN p"
+                }
+            ]
+        },
 		{
             "name": "List all owned users",
             "queryList": [
